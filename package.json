@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "pngjs": "^6.0.0"
+  }
+}
